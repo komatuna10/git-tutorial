@@ -1,46 +1,25 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 40px;
-    line-height: 1.6;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 800px;
+    margin: 0 auto;
   }
   
-  .right-align {
+  .sender-column {
     text-align: right;
-    margin-bottom: 20px;
-  }
-  
-  .left-align {
-    text-align: left;
-    margin-top: 20px;
   }
   
   h1 {
     font-size: 1.5em;
-    margin-bottom: 20px;
   }
   
-  p {
-    margin: 5px 0;
+  h2 {
+    font-size: 1.3em;
   }
   
-  i {
-    font-style: italic;
+  p,ul,ol,dl,address {
+    font-size: 1.1em;
   }
   
-  ul {
-    margin-top: 0;
-    margin-bottom: 20px;
-  }
-  
-  ul li {
-    margin-left: 20px;
-  }
-  
-  a {
-    color: blue;
-    text-decoration: underline;
-  }
-  
-  a:hover {
-    text-decoration: none;
+  p, li, dd, dt, address {
+    line-height: 1.5;
   }
