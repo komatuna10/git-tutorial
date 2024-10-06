@@ -4,29 +4,23 @@ body {
     line-height: 1.6;
   }
   
+  .right-align {
+    text-align: right;
+    margin-bottom: 20px;
+  }
+  
+  .left-align {
+    text-align: left;
+    margin-top: 20px;
+  }
+  
   h1 {
     font-size: 1.5em;
     margin-bottom: 20px;
   }
   
-  h2 {
-    font-size: 1.3em;
-    margin-top: 20px;
-    margin-bottom: 10px;
-  }
-  
-  h3 {
-    font-size: 1.2em;
-    margin-top: 20px;
-  }
-  
-  h4 {
-    font-size: 1.1em;
-    margin-top: 15px;
-  }
-  
   p {
-    margin: 10px 0;
+    margin: 5px 0;
   }
   
   i {
@@ -50,4 +44,3 @@ body {
   a:hover {
     text-decoration: none;
   }
-  
